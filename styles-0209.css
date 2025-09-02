@@ -1,0 +1,57 @@
+#img{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+*{  
+    text-align: center;
+    background-color: rgb(201, 174, 174);
+   
+}
+.html{
+  background-color: deeppink;
+  padding: 30px;
+  width: 600px;
+  margin: 50px;
+  border: solid;
+}
+.css{
+    background-color: chartreuse;
+    padding: 30px;
+     width: 600px;
+     margin: 50px;
+     border: solid;
+}
+.javascript{
+    background-color: rgb(220, 20, 187);
+    padding: 30px;
+     width: 600px;
+     margin: 50px;
+     border: solid;
+}
+.react{
+    background-color: rgb(189, 206, 127);
+    padding: 30px;
+     width: 600px;
+     margin: 50px;
+     border: solid;
+}
+.python{
+    background-color: mediumspringgreen;
+    padding: 30px;
+     width: 600px;
+     margin: 50px;
+     border: solid;
+    
+}
+p{
+    margin: 0;
+  background-color: rgb(242, 235, 247);
+    
+}
+b{
+    background-color: rgb(246, 110, 124);
+    margin-bottom: 20px;
+
+
+}
