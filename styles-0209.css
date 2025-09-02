@@ -1,47 +1,54 @@
 #img{
-    background-color: blue;
+    /* background-color: blue; */
     padding: 10px;
     margin: 10px;
 }
 *{  
     text-align: center;
-    background-color: rgb(201, 174, 174);
+    /* background-color: rgb(201, 174, 174); */
    
 }
 .html{
+    justify-content: center;
   background-color: deeppink;
   padding: 30px;
-  width: 600px;
+  width: 500px;
   margin: 50px;
   border: solid;
+   border-radius: 20px;
 }
 .css{
+    
     background-color: chartreuse;
     padding: 30px;
-     width: 600px;
+     width: 500px;
      margin: 50px;
      border: solid;
+      border-radius: 20px;
 }
 .javascript{
     background-color: rgb(220, 20, 187);
     padding: 30px;
-     width: 600px;
+     width: 500px;
      margin: 50px;
      border: solid;
+      border-radius: 20px;
 }
 .react{
-    background-color: rgb(189, 206, 127);
+    background-color: rgb(199, 231, 80);
     padding: 30px;
-     width: 600px;
+     width: 500px;
      margin: 50px;
      border: solid;
+      border-radius: 20px;
 }
 .python{
     background-color: mediumspringgreen;
     padding: 30px;
-     width: 600px;
+     width: 500px;
      margin: 50px;
      border: solid;
+     border-radius: 20px;
     
 }
 p{
