@@ -1,0 +1,17 @@
+         .first-container{
+    display: flex;
+    
+}
+.second-container{
+    display: flex;
+
+}
+
+img{
+    margin: 0%;
+    /* padding: 20%; */
+}
+div{
+    object-fit: cover;
+    width: 500px;
+}

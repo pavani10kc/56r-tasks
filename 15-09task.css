@@ -1,0 +1,42 @@
+.main-container {
+    background-color: antiquewhite;
+    width: 1000px;
+    justify-content: center;
+    border: solid;
+}
+
+.first-imagecontainer {
+    background-color: aqua;
+    padding-top: 10px;
+    display: flex;
+    border: solid;
+    justify-content: center;
+    margin: 10px;
+}
+
+img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    padding-left: 10px;
+
+}
+
+.second-imagecontainer {
+    background-color: aquamarine;
+    border: solid;
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    margin: 10px;
+}
+
+h6 {
+    padding-left: 10px;
+    text-align: center;
+    top: -120px;
+    color: blue;
+    position: relative;
+    font-size: medium;
+
+}

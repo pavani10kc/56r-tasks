@@ -1,0 +1,6 @@
+div{
+    background-color: aqua;
+   display: flex;
+   padding: 10px;
+   justify-content: space-around;
+}

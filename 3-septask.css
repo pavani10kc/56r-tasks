@@ -1,0 +1,49 @@
+.nav{
+   background-color: blue;
+ border: solid;
+}
+.projects{
+    background-color: aqua;
+   position: absolute;
+   padding-left: 10px;
+   letter-spacing: 5px;
+}
+.imgcontainer{
+    width: 100%;
+}
+.content{
+    position: absolute;
+    bottom: 300px;
+    justify-content: center;
+    left: 600px;
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+.br{
+    background-color: rgb(54, 57, 56);
+   padding: 10px;
+}
+.pro2{
+   margin: 0px;
+   display: inline;
+    padding: 10px;
+    font-size: x-large;}
+  
+    
+
+
+.container1{
+   display: flex;
+   width: 100%;
+}
+*{width: 100%;}
+h3{
+    background-color: black;
+    color: aliceblue;
+    display: inline;
+    margin: 0px;
+   top: -200px;
+   position:relative;
+   
+}
